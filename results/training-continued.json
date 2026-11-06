@@ -1,0 +1,21 @@
+{
+  "sessions": 70000,
+  "seed": 123,
+  "size": 10,
+  "max_steps": 3000,
+  "learning": true,
+  "training_episodes": 100000,
+  "q_states": 217,
+  "epsilon": 0.03,
+  "mean_length": 10.7079,
+  "mean_max_length": 10.730471428571429,
+  "mean_steps": 73.85905714285714,
+  "mean_green": 7.8664,
+  "mean_red": 0.1585,
+  "best_length": 42,
+  "longest_life": 490,
+  "reached_10_rate": 0.4982142857142857,
+  "final_10_rate": 0.49688571428571426,
+  "truncated": 0,
+  "interrupted": false
+}

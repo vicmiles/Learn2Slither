@@ -1,0 +1,1 @@
+# No pip dependencies at runtime. Visual mode uses Python's tkinter module.

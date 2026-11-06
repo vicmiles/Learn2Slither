@@ -1,0 +1,151 @@
+{
+  "model": "models/best.json",
+  "sha256": "61e59f54d3104fb15b7448bfbbcb9b0fd77944f18dfa10570e80294b9a56638f",
+  "model_unchanged": true,
+  "reports": [
+    {
+      "sessions": 200,
+      "seed": 2027,
+      "size": 5,
+      "max_steps": 3000,
+      "learning": false,
+      "training_episodes": 100000,
+      "q_states": 217,
+      "epsilon": 0.03,
+      "mean_length": 12.93,
+      "mean_max_length": 13.08,
+      "mean_steps": 185.75,
+      "mean_green": 10.535,
+      "mean_red": 0.605,
+      "best_length": 24,
+      "best_final_length": 24,
+      "longest_life": 3000,
+      "reached_10_rate": 0.785,
+      "final_10_rate": 0.77,
+      "truncated": 10,
+      "bonus_final_rates": {
+        "15": 0.355,
+        "20": 0.09,
+        "25": 0.0,
+        "30": 0.0,
+        "35": 0.0
+      },
+      "bonus_peak_rates": {
+        "15": 0.355,
+        "20": 0.095,
+        "25": 0.0,
+        "30": 0.0,
+        "35": 0.0
+      },
+      "interrupted": false
+    },
+    {
+      "sessions": 200,
+      "seed": 2027,
+      "size": 10,
+      "max_steps": 3000,
+      "learning": false,
+      "training_episodes": 100000,
+      "q_states": 217,
+      "epsilon": 0.03,
+      "mean_length": 23.455,
+      "mean_max_length": 23.535,
+      "mean_steps": 388.295,
+      "mean_green": 20.77,
+      "mean_red": 0.315,
+      "best_length": 47,
+      "best_final_length": 47,
+      "longest_life": 3000,
+      "reached_10_rate": 0.93,
+      "final_10_rate": 0.93,
+      "truncated": 14,
+      "bonus_final_rates": {
+        "15": 0.86,
+        "20": 0.68,
+        "25": 0.475,
+        "30": 0.21,
+        "35": 0.085
+      },
+      "bonus_peak_rates": {
+        "15": 0.86,
+        "20": 0.685,
+        "25": 0.475,
+        "30": 0.215,
+        "35": 0.085
+      },
+      "interrupted": false
+    },
+    {
+      "sessions": 200,
+      "seed": 2027,
+      "size": 15,
+      "max_steps": 3000,
+      "learning": false,
+      "training_episodes": 100000,
+      "q_states": 217,
+      "epsilon": 0.03,
+      "mean_length": 34.7,
+      "mean_max_length": 34.77,
+      "mean_steps": 620.615,
+      "mean_green": 31.975,
+      "mean_red": 0.275,
+      "best_length": 63,
+      "best_final_length": 63,
+      "longest_life": 3000,
+      "reached_10_rate": 0.955,
+      "final_10_rate": 0.955,
+      "truncated": 12,
+      "bonus_final_rates": {
+        "15": 0.925,
+        "20": 0.875,
+        "25": 0.815,
+        "30": 0.745,
+        "35": 0.525
+      },
+      "bonus_peak_rates": {
+        "15": 0.925,
+        "20": 0.88,
+        "25": 0.815,
+        "30": 0.745,
+        "35": 0.535
+      },
+      "interrupted": false
+    },
+    {
+      "sessions": 200,
+      "seed": 2027,
+      "size": 20,
+      "max_steps": 3000,
+      "learning": false,
+      "training_episodes": 100000,
+      "q_states": 217,
+      "epsilon": 0.03,
+      "mean_length": 44.235,
+      "mean_max_length": 44.265,
+      "mean_steps": 1082.78,
+      "mean_green": 41.4,
+      "mean_red": 0.165,
+      "best_length": 96,
+      "best_final_length": 96,
+      "longest_life": 3000,
+      "reached_10_rate": 0.94,
+      "final_10_rate": 0.94,
+      "truncated": 19,
+      "bonus_final_rates": {
+        "15": 0.925,
+        "20": 0.9,
+        "25": 0.87,
+        "30": 0.83,
+        "35": 0.765
+      },
+      "bonus_peak_rates": {
+        "15": 0.925,
+        "20": 0.9,
+        "25": 0.87,
+        "30": 0.83,
+        "35": 0.765
+      },
+      "interrupted": false
+    }
+  ]
+}

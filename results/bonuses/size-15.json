@@ -1,0 +1,36 @@
+{
+  "sessions": 200,
+  "seed": 2027,
+  "size": 15,
+  "max_steps": 3000,
+  "learning": false,
+  "training_episodes": 100000,
+  "q_states": 217,
+  "epsilon": 0.03,
+  "mean_length": 34.7,
+  "mean_max_length": 34.77,
+  "mean_steps": 620.615,
+  "mean_green": 31.975,
+  "mean_red": 0.275,
+  "best_length": 63,
+  "best_final_length": 63,
+  "longest_life": 3000,
+  "reached_10_rate": 0.955,
+  "final_10_rate": 0.955,
+  "truncated": 12,
+  "bonus_final_rates": {
+    "15": 0.925,
+    "20": 0.875,
+    "25": 0.815,
+    "30": 0.745,
+    "35": 0.525
+  },
+  "bonus_peak_rates": {
+    "15": 0.925,
+    "20": 0.88,
+    "25": 0.815,
+    "30": 0.745,
+    "35": 0.535
+  },
+  "interrupted": false
+}
